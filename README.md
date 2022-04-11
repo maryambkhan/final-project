@@ -31,7 +31,16 @@
    - Image
    - Article
    - Footer
-   
+- Contact Page
+   - Nav-bar
+   - Image
+   - Form
+   - Footer
+- Gallery
+   - Nav-bar
+   - Images 
+       - Instagram API/Storyblok Api/Strapy API
+   - Footer
 
 ### Journel Entries
 
@@ -39,4 +48,9 @@
 
 ### Resurces
 
+- [Nuxt2](https://nuxtjs.org/docs/get-started/installation)
+- [Tailwindcss](https://tailwindcss.com/docs/guides/nuxtjs)
+
 ### Attributions
+
+- [Adrieana Blazin](https://blazinphoto.com/)
