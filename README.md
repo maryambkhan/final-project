@@ -48,6 +48,7 @@
 - I created Nuxt2 project and added google image and tailwindcss.
 - Then just to make sure everything is working i added nav-bar component but i could not see it. First thing i did was check
   nuxtconfig and make sure everything was okay.
+- Created a rough structure of navigation bar
   
 
 ### Problems
