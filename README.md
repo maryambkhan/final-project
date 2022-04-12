@@ -51,7 +51,8 @@
 - Then just to make sure everything is working i added nav-bar component but i could not see it. First thing i did was check
   nuxtconfig and make sure everything was okay.
 - Created a rough structure of navigation bar
-
+- Next i an going make this nav-bar mobile version.
+- Followed a youtube video for mobile nav-bar it was reall good and i got it done the way i wanted yay!.
 ### Problems
 
 - I just had this silly problem where i was not able to see nav-bar on html page. All of sudden idea struck me if
@@ -65,6 +66,7 @@
 - [Google Image](https://image.nuxtjs.org/getting-started/installation)
 - [Font Awesome icons](https://stackoverflow.com/questions/67866467/how-to-add-font-awesome-to-vue-and-nuxt-js-project)
 - [Font Awesome solids and brands](https://levelup.gitconnected.com/nuxt-js-and-fontawesome-a-simple-walk-through-78f35605d841)
+- [Adam Wathan](https://www.youtube.com/watch?v=ZT5vwF6Ooig)
 
 ### Attributions
 
