@@ -18,6 +18,12 @@ export default {
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ]
   },
+  fontawesome: {
+    icons:{
+     solid:true,
+     brands:true
+    }
+   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
@@ -33,7 +39,7 @@ export default {
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
     // https://go.nuxtjs.dev/tailwindcss
-    '@nuxtjs/tailwindcss','@nuxt/postcss8', '@nuxt/image'
+    '@nuxtjs/tailwindcss','@nuxt/postcss8', '@nuxt/image', '@nuxtjs/fontawesome'
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
