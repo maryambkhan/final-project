@@ -1,9 +1,7 @@
 <template>
-  <header>
-    <h1 class="flex justify-center text-4xl mt-5 font-serif">ABK Photos</h1>
+  <header class="shadow-md shadow-slate-600">
+    <h1 class="flex justify-center font-serif text-4xl  ">ABK Photos</h1>
     <TheNavBar />
-    <div class="mt-2 border border-slate-300 mx-10 ">
-    </div>
   </header>
 </template>
 
