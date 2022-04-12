@@ -44,12 +44,23 @@
 
 ### Journel Entries
 
+- We are done with all the documentation for final project.
+- I created Nuxt2 project and added google image and tailwindcss.
+- Then just to make sure everything is working i added nav-bar component but i could not see it. First thing i did was check
+  nuxtconfig and make sure everything was okay.
+  
+
 ### Problems
+
+- I just had this silly problem where i was not able to see nav-bar on html page. All of sudden idea struck me if 
+  inspect the page and see if it is rendring on page or not. Well it was and then i went back to VS and saw nav-bar 
+  color was white.
 
 ### Resurces
 
 - [Nuxt2](https://nuxtjs.org/docs/get-started/installation)
 - [Tailwindcss](https://tailwindcss.com/docs/guides/nuxtjs)
+- [Google Image](https://image.nuxtjs.org/getting-started/installation)
 
 ### Attributions
 
