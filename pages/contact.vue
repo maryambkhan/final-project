@@ -46,7 +46,7 @@
       </div>
       <!--message-->
       <div>
-      <label for="message" class="mt-2 block text-lg  text-slate-700 font-bold">Message</label>
+      <label for="message" class="mt-2 after:content-['*'] after:ml-0.5 after:text-red-700 block text-lg  text-slate-700 font-bold">Message</label>
       <textarea type="message" name="message" id="message" rows="4" cols="20"  class="w-full mt-2 px-3 py-2 bg-white border rounded-md border-slate-500  ml-2 " > 
       </textarea>
       </div>
