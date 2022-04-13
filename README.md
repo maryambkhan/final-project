@@ -26,10 +26,10 @@
 
 - Landing Page
   - HeroSection Image
-  - Nav-Bar
-  - Footer
-- About Page
-  - Nav-bar
+  - Nav-Bar [maryam]
+  - Footer [maha]
+- About Page [maryam]
+  - Nav-bar 
   - Image
   - Article
   - Footer
@@ -54,6 +54,8 @@
 - Next i an going make this nav-bar mobile version.
 - Followed a youtube video for mobile nav-bar it was reall good and i got it done the way i wanted yay!.
 - I have started working on about page added navbar footer and content so far so good.
+- I tweaked the design a little i  did not like the other one but last decision is clients.
+- I have started working on contact page added form and did some design have to do somer design and then next is adding funcnailty to it.
 ### Problems
 
 - I just had this silly problem where i was not able to see nav-bar on html page. All of sudden idea struck me if
