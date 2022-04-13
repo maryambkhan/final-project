@@ -53,6 +53,7 @@
 - Created a rough structure of navigation bar
 - Next i an going make this nav-bar mobile version.
 - Followed a youtube video for mobile nav-bar it was reall good and i got it done the way i wanted yay!.
+- I have started working on about page added navbar footer and content so far so good.
 ### Problems
 
 - I just had this silly problem where i was not able to see nav-bar on html page. All of sudden idea struck me if
