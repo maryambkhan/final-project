@@ -3,7 +3,7 @@
 <TheHeader />
 <main>
     <div class="text-center mt-4">
-    <h1 class="sm:text-lg font-serif md:text-4xl  lg:text-4xl mb-4">Contact</h1>
+    <h1 class="sm:text-2xl font-serif md:text-4xl  lg:text-4xl mb-4">Contact</h1>
     <div class="sm:text-sm md:text-lg">
     <p>Have a question?</p>
     <p>Thinking about booking a session?</p>
@@ -12,14 +12,13 @@
     </div>
     <!--form-->
      <section class="mx-auto mt-2 bg-gray-300 max-w-6xl py-20 px-12 lg:px-24">
-  <form action="#"
-  method="POST" class="flex justify-center  mt-10">
+  <form action="https://formspree.io/f/mrgjyaed" method="POST"  class="flex justify-center  mt-10">
     <fieldset>
         <!--first name-->
         <div class="flex gap-2">
       <div>
         <label for="user" class="after:content-['*'] after:ml-0.5 after:text-red-700 block text-lg  text-slate-700 font-bold">First Name</label>
-        <input type="text" name="user" id="user"  class="mt-2 px-3 py-2 bg-white rounded-md border  border-slate-500  ml-2" >
+        <input type="text" name="firstname" id="user"  class="mt-2 px-3 py-2 bg-white rounded-md border  border-slate-500  ml-2" >
       </div>
       <!--last name-->
       <div>
@@ -35,8 +34,8 @@
       </div>
       <!--phone number-->
       <div>
-        <label for="tel" class="mt-2 after:content-['*'] after:ml-0.5 after:text-red-700 block text-lg  text-slate-700 font-bold">Phone</label>
-        <input type="number" name="number"  id="tel"  class="mt-2 px-3 py-2 bg-white rounded-md border  border-slate-500  ml-2 " >
+        <label for="phone" class="mt-2 after:content-['*'] after:ml-0.5 after:text-red-700 block text-lg  text-slate-700 font-bold">Phone</label>
+        <input type="text" name="phone"  id="phone"  class="mt-2 px-3 py-2 bg-white rounded-md border  border-slate-500  ml-2 " >
       </div>
       </div>
       <!--subject-->
@@ -51,10 +50,10 @@
       </textarea>
       </div>
       <!--button-->
-      <button type="submit" class="w-full mt-10 bg-black text-white p-2 text-2xl rounded-md">Submit</button>
+      <button   type="submit" class="w-full mt-10 bg-black text-white p-2 text-2xl rounded-md">Submit</button>
     </fieldset>
   </form>
-    </section>
+  </section>
 </main>
 <TheFooter />
 </div>

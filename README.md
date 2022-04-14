@@ -56,6 +56,8 @@
 - I have started working on about page added navbar footer and content so far so good.
 - I tweaked the design a little i  did not like the other one but last decision is clients.
 - I have started working on contact page added form and did some design have to do somer design and then next is adding funcnailty to it.
+- So i just made form backend work and tested it via sending it to myself working good. But i did not liked the 
+  result you get at the end i wanted it to be something nice so i tried some other site and it did not worked so i went back to formspree.
 
 ### Problems
 

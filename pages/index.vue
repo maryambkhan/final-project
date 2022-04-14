@@ -3,6 +3,9 @@
     <div>
       <TheHeader />
     </div>
+    <main>
+      <img src="/images/hero.jpg" alt="" />
+    </main>
 		<div>
     <TheFooter />
 		</div>
