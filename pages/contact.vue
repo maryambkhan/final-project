@@ -1,7 +1,8 @@
 <template>
-<div>
+<div class="md:flex md:flex-col md:justify-center">
 <TheHeader />
 <main>
+    
     <div class="text-center mt-4">
     <h1 class="font-serif text-4xl">Contact</h1>
     <div class="sm:text-sm md:text-lg">
@@ -12,18 +13,19 @@
     </div>
     </div>
     <!--form-->
-    <section class="sm:flex-col-1">
+    <div>
+    <section>
   <form action="#"
-  method="POST" class="flex justify-center  mt-10">
+  method="POST" class="flex justify-center  mt-10" id="form">
     <fieldset>
         <!--first name-->
-        <div class="flex gap-2">
+        <div class="flex gap-2 ">
       <div>
         <label for="user" class="after:content-['*'] after:ml-0.5 after:text-red-700 block text-lg  text-slate-700 font-bold">First Name</label>
         <input type="text" name="user" id="user"  class="mt-2 px-3 py-2 bg-white rounded-md border  border-slate-500  ml-2" >
       </div>
       <!--last name-->
-      <div>
+      <div class="">
         <label for="user" class=" after:content-['*'] after:ml-0.5 after:text-red-700 block text-lg  text-slate-700 font-bold">Last Name</label>
         <input type="text" name="lastname" id="lastname"  class="mt-2 px-3 py-2 bg-white rounded-md border border-slate-500  ml-2 " >
       </div>
@@ -56,10 +58,23 @@
     </fieldset>
   </form>
     </section>
+    </div>
 </main>
 <TheFooter />
 </div>
 </template>
 
 <script setup>
+
 </script>
+<style >
+
+/**@media screen and (max-width: 768px) {
+  #form {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    
+  }
+}**/
+</style>
