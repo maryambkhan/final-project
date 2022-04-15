@@ -25,7 +25,7 @@
 ### Plan
 
 - Landing Page
-  - HeroSection Image
+  - HeroSection Image [maha]
   - Nav-Bar [maryam]
   - Footer [maha]
 - About Page [maryam]
