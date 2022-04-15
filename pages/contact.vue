@@ -48,7 +48,7 @@
         <div class="-mx-3 md:flex">
          <div class="md:w-full">
         <label for="subject" class="mt-2 after:content-['*'] after:ml-0.5 after:text-red-700 block text-lg  text-slate-700 font-bold">Subject</label>
-        <input type="subject" name="subject" id="subject"  required="" class="sm:w-1/2 md:w-full mt-2 px-3 py-2 bg-white rounded-md border  border-slate-500  ml-2 " >
+        <input type="subject" name="subject" id="subject"  required="" class="sm:w-11/12 md:w-full mt-2 px-3 py-2 bg-white rounded-md border  border-slate-500  ml-2 " >
       </div>
         </div>
        
@@ -56,7 +56,7 @@
       <div class="-mx-3 md:flex">
       <div class="md:w-full">
       <label for="message" class="mt-2 after:content-['*'] after:ml-0.5 after:text-red-700 block text-lg  text-slate-700 font-bold">Message</label>
-      <textarea type="message" name="message" id="message" rows="4" cols="20"  required="" class="sm:w-1/2 md:w-full mt-2 px-3 py-2 bg-white border rounded-md border-slate-500 ml-2 " > 
+      <textarea type="message" name="message" id="message" rows="4" cols="20"  required="" class="sm:w-11/12 md:w-full mt-2 px-3 py-2 bg-white border rounded-md border-slate-500 ml-2 " > 
       </textarea>
       </div>
       </div>
