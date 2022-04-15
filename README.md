@@ -18,7 +18,7 @@
 - Flow Chart [maha]
 - Lean Canvas [maryam]
 - Landing Page
-- About Page
+- About Page [maryam]
 - Gallery Page
 - Contact Page
 
@@ -36,7 +36,7 @@
 - Contact Page [maryam]
   - Nav-bar
   - Image
-  - Form [maryam]
+  - Form [maryam--maha]
   - Footer
 - Gallery
   - Nav-bar
