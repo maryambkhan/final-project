@@ -77,14 +77,3 @@
 <script setup>
 
 </script>
-<style >
-
-/**@media screen and (max-width: 768px) {
-  #form {
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: column;
-    
-  }
-}**/
-</style>

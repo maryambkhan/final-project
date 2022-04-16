@@ -9,7 +9,7 @@
           </div>
           <div class="text-center">
             <h1
-              class="sm:text-2xl md:text-4xl lg:text-4xl font-serif mb-4 mt-4"
+              class="sm:text-3xl md:text-4xl lg:text-4xl font-serif mb-4 mt-4"
             >
               About Me
             </h1>
