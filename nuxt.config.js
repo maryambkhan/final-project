@@ -39,8 +39,15 @@ export default {
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
     // https://go.nuxtjs.dev/tailwindcss
-    '@nuxtjs/tailwindcss','@nuxt/postcss8', '@nuxt/image', '@nuxtjs/fontawesome'
+    '@nuxtjs/tailwindcss','@nuxt/postcss8', '@nuxt/image', '@nuxtjs/fontawesome','@nuxtjs/apollo'
   ],
+  apollo: {
+    clientConfigs: {
+      default: {
+        httpEndpoint: 'http://localhost:1337/graphql',
+      }
+    }
+  },
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [

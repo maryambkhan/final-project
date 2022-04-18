@@ -73,6 +73,8 @@
 - [Font Awesome icons](https://stackoverflow.com/questions/67866467/how-to-add-font-awesome-to-vue-and-nuxt-js-project)
 - [Font Awesome solids and brands](https://levelup.gitconnected.com/nuxt-js-and-fontawesome-a-simple-walk-through-78f35605d841)
 - [Adam Wathan](https://www.youtube.com/watch?v=ZT5vwF6Ooig)
+- [Debbie o'Brien](https://www.youtube.com/watch?v=Rj1qYm5zctE&t=2441s)
+- [nuxt module](https://github.com/nuxt-community/apollo-module)
 
 ### Attributions
 
