@@ -17,26 +17,30 @@
 - User story [maryam]
 - Flow Chart [maha]
 - Lean Canvas [maryam]
-- Landing Page
+- Landing Page [maha]
+    - Nav-bar
 - About Page [maryam]
-- Gallery Page
-- Contact Page
+   - Article
+- Gallery Page [maha,maryam]
+   - Images
+- Contact Page [maryam]
+   - Form
 
 ### Plan
 
 - Landing Page
-  - HeroSection Image [maha]
-  - Nav-Bar [maryam]
-  - Footer [maha]
-- About Page [maryam]
+  - HeroSection Image
+  - Nav-Bar 
+  - Footer 
+- About Page
   - Nav-bar 
   - Image
   - Article
   - Footer
-- Contact Page [maryam]
+- Contact Page
   - Nav-bar
   - Image
-  - Form [maryam--maha]
+  - Form 
   - Footer
 - Gallery
   - Nav-bar
@@ -58,12 +62,22 @@
 - I have started working on contact page added form and did some design have to do somer design and then next is adding funcnailty to it.
 - So i just made form backend work and tested it via sending it to myself working good. But i did not liked the 
   result you get at the end i wanted it to be something nice so i tried some other site and it did not worked so i went back to formspree.
+- I have been working on strapi api for gallery page  i liked it. I can see why and when we need this. 
+- I created a new nuxt2 project to learn strapi on. I did not wanted to messup our final project. I found a realy great video which i followed
+   i set up everything  and then i ran into problem 
+- We solved everything as group and i think it was really great working in group.
+- After setup we had to fetch the image we could not figured it out then asked for help from tony and he helped us
+       `<img :src="`http://localhost:1337${gallery.attributes.image.data.attributes.url}`" :alt="gallery"/>`
 
 ### Problems
 
 - I just had this silly problem where i was not able to see nav-bar on html page. All of sudden idea struck me if
   inspect the page and see if it is rendring on page or not. Well it was and then i went back to VS and saw nav-bar
   color was white.
+- Strapi Issue--> which was becouse that video was old and they changed few things like i had to do this `localhost:1337/api/menus`
+   to get the data.
+- And i after that i was having problem fetching it on html page becouse i was missing something ` httpEndpoint: 'http://localhost:1337/graphql'`.
+
 
 ### Resurces
 
