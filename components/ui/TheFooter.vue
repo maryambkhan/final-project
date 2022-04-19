@@ -8,8 +8,6 @@
     <section class="justify-self-end mr-10">
      <a href="https://www.instagram.com/_abkphotos/"> <font-awesome-icon :icon="['fab', 'instagram']" class="mr-2 text-xl hover:text-2xl"/></a>
      <a href="https://www.facebook.com/atikabk"> <font-awesome-icon :icon="['fab', 'facebook']"  class="mr-2 text-xl hover:text-2xl"/></a>
-    
-
     </section>
   </div>
   </div>

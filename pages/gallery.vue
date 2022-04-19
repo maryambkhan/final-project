@@ -6,7 +6,7 @@
     <main>
       <h1 class="text-center sm:text-3xl md:text-4xl lg:text-4xl font-serif mb-4 mt-4">Gallery</h1>
        <!--<pre> {{galleries.data}} </pre>-->
-       <div class="grid grid-cols-3 gap-3 items-center h-full w-full">
+       <div class="grid grid-cols-3 gap-3 items-center h-auto">
        <div v-for="gallery in galleries.data" :key="gallery.id" class=" ">
        <img :src="`http://localhost:1337${gallery.attributes.image.data.attributes.url}`" :alt="gallery"/>
        </div>
@@ -53,4 +53,8 @@ export default {
 }
 </script>
 
-
+<style scoped>
+h1{
+  font-family: Lustria;
+}
+</style>

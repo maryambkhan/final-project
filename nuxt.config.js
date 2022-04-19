@@ -39,13 +39,19 @@ export default {
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
     // https://go.nuxtjs.dev/tailwindcss
-    '@nuxtjs/tailwindcss','@nuxt/postcss8', '@nuxt/image', '@nuxtjs/fontawesome','@nuxtjs/apollo'
+    '@nuxtjs/tailwindcss','@nuxt/postcss8', '@nuxt/image', '@nuxtjs/fontawesome','@nuxtjs/apollo','@nuxtjs/google-fonts'
   ],
   apollo: {
     clientConfigs: {
       default: {
         httpEndpoint: 'http://localhost:1337/graphql',
       }
+    }
+  },
+  googleFonts: {
+    families: {
+      Lato:[400],
+      Lustria:[400]
     }
   },
 

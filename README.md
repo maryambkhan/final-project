@@ -69,6 +69,7 @@
 - After setup we had to fetch the image we could not figured it out then asked for help from tony and he helped us
        `<img :src="`http://localhost:1337${gallery.attributes.image.data.attributes.url}`" :alt="gallery"/>`
 
+
 ### Problems
 
 - I just had this silly problem where i was not able to see nav-bar on html page. All of sudden idea struck me if
