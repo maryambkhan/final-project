@@ -78,7 +78,7 @@
 - Strapi Issue--> which was becouse that video was old and they changed few things like i had to do this `localhost:1337/api/menus`
    to get the data.
 - And i after that i was having problem fetching it on html page becouse i was missing something ` httpEndpoint: 'http://localhost:1337/graphql'`.
-
+- [problem](https://stackoverflow.com/questions/56448815/eperm-operation-not-permitted-error-when-building-nuxt-app)
 
 ### Resurces
 
@@ -90,6 +90,7 @@
 - [Adam Wathan](https://www.youtube.com/watch?v=ZT5vwF6Ooig)
 - [Debbie o'Brien](https://www.youtube.com/watch?v=Rj1qYm5zctE&t=2441s)
 - [nuxt module](https://github.com/nuxt-community/apollo-module)
+- [strapi](https://docs.strapi.io/developer-docs/latest/developer-resources/database-apis-reference/graphql-api.html#pagination-by-page)
 
 ### Attributions
 

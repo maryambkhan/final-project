@@ -1,5 +1,5 @@
 <template>
-<div class="">
+<div>
   <h1 class="font-serif text-4xl ml-2 text-white flex justify-end pt-56 pr-52 mr-12">ABK Photos</h1>
   <div class="flex justify-end gap-6 mr-12 mt-5 pr-32">
     <NuxtLink to="/gallery" class="text-white block  px-2 py-1 text-xl font-semibold rounded hover:bg-red-300">GALLERY</NuxtLink>
@@ -15,7 +15,7 @@
 </template>
 
 
-  <style scoped>
+<style scoped>
 h1{
   
   text-shadow: 1px 1px 2px black, 0 0 1em gray, 0 0 0.2em gray;
@@ -27,6 +27,4 @@ h1{
 
 
 <script setup>
-
-
 </script>
