@@ -13,3 +13,8 @@ export default {
   }
 }
 </script>
+<style>
+body{
+  cursor: pointer;
+}
+</style>

@@ -68,7 +68,10 @@
 - We solved everything as group and i think it was really great working in group.
 - After setup we had to fetch the image we could not figured it out then asked for help from tony and he helped us
        `<img :src="`http://localhost:1337${gallery.attributes.image.data.attributes.url}`" :alt="gallery"/>`
-
+- Recently i have been working on gallery page with strapi and was not able to get images more then 10. I have done lot of reseerch and 
+  reading did not find the solution. And then i create danother project for testing and stuff where i found the solution everything workied on that one pagination too
+  then started looking what is the diffrence in this project and this was it  `// Target: https://go.nuxtjs.dev/config-target` my project was static and test project was multipage
+  Well dont have enough time now to redo it and work on actuall pagination takes time to i tried to do that too. But glad find problem and solution.
 
 ### Problems
 

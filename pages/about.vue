@@ -1,7 +1,7 @@
 <template>
   <div>
     <TheHeader />
-    <main class="">
+    <main class="flex flex-col min-h-screen">
       <div class="text-center mt-4">
       <h1 class="sm:text-3xl md:text-4xl lg:text-4xl  mb-4 mt-4">About Me</h1>
       </div>

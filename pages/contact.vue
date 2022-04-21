@@ -11,7 +11,7 @@
     </div>
     </div>
 <!--form-->
-     <section class="mx-auto mt-2 bg-gray-300 max-w-6xl py-20 px-12 lg:px-24">
+     <section class="mx-auto mt-2 bg-gray-300 max-w-6xl py-12 px-12 lg:px-24">
   <form action="https://formspree.io/f/meqnrndw" method="POST"  class="flex justify-center">
     <fieldset>
         <!--first name-->
@@ -33,13 +33,13 @@
        <div class="-mx-3 md:flex">
       <div>
         <label for="email" class="mt-2 after:content-['*'] after:ml-0.5 after:text-red-700 block text-lg  text-slate-700 font-bold">Email</label>
-        <input type="email" name="email" id="email" placeholder="you@example.com" required="" class="mt-2 px-3 py-2 bg-white rounded-md border  border-slate-500  ml-2 " >
+        <input type="email" name="email" id="email"  required="" class="mt-2 px-3 py-2 bg-white rounded-md border  border-slate-500  ml-2 " >
       </div>
 
       <!--phone number-->
       <div class="md:w-1/2">
         <label for="phone" class="mt-2 after:content-['*'] after:ml-0.5 after:text-red-700 block text-lg  text-slate-700 font-bold">Phone</label>
-        <input type="number" name="phone"  id="phone"  placeholder="000-000-0000" required="" class="mt-2 px-3 py-2 bg-white rounded-md border  border-slate-500  ml-2 " >
+        <input type="number" name="phone"  id="phone"   required="" class="mt-2 px-3 py-2 bg-white rounded-md border  border-slate-500  ml-2 " >
       </div>
       </div>
 
@@ -62,7 +62,7 @@
       <!--button-->
       <div class="-mx-3 md:flex mt-2">
           <div class="md:w-full px-3">
-      <button  type="submit" id="submit" class="md:w-full mt-10 bg-black text-white p-2 text-2xl rounded-md">Submit</button>
+      <button  type="submit" id="submit" class="hover:bg-teal-900  bg-teal-700 text-white p-2 text-2xl rounded-md">Submit</button>
           </div>
       </div>
     </fieldset>

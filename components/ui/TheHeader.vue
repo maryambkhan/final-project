@@ -12,7 +12,6 @@
 <style scoped>
 h1 {
  
-  text-shadow:  0 0 1em gray, 0 0 0.2em gray;
   color: black;
   font: 1.5em Georgia;
   font-size: 40px;
