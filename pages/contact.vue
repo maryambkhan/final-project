@@ -12,7 +12,7 @@
     </div>
 <!--form-->
      <section class="mx-auto mt-2 bg-gray-300 max-w-6xl py-12 px-12 lg:px-24">
-  <form action="https://formspree.io/f/meqnrndw" method="POST"  class="flex justify-center">
+  <form action="#" method="POST"  class="flex justify-center">
     <fieldset>
         <!--first name-->
            
